@@ -56,7 +56,7 @@ A full-stack Task Management System built using the MERN stack with a responsive
 
 ## Setup Instructions
 
-## 1. Clone the Repository
+ 1. Clone the Repository
 
 ```bash
 git clone https://github.com/RAMEEN20-gill/task-manager.git
